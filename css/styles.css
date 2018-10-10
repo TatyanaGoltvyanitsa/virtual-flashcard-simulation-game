@@ -1,0 +1,13 @@
+﻿/* Author: Tatyana Goltvyanitsa | 2018 */
+
+/* General Styles */
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Button Styles */
+input {
+    display: block;
+}
